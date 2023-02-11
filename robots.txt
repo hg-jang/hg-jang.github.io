@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://king-bada.dev
+
+# Sitemaps
+Sitemap: https://king-bada.dev/sitemap.xml
